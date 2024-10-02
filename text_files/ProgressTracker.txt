@@ -1,0 +1,31 @@
+01-11-21:
+    ->implemented inputting of string and printing important info in a output.txt using C file handling.
+    ->this .txt file will then be used as input in future verilog programs.
+
+05-11-21:
+    -> read and learned about using file handling to extract inputs.
+    ->implemented storage in 2d matrix using File handling in verilog.
+    ->defined length of target_matrix.
+
+06-11-21:
+    ->TODO: try making a module for MM.
+    -> started implementing multiplication of inverse with encrypted matrix.
+    -> implemented password imput using file handling in verilog.
+
+07-11-21:
+    -> Made a ReadMe.md file to show module hierarchy, and input-outputs.
+    -> Submitted project updates and .zip files.
+
+13-11-21:
+    ->Tried to implement signed multiplication, but failed. :`(;
+    ->TODO: implement decryption into characters using file handling.(in verilog , if possible)
+
+14-11-21:
+    -> implemented matrix multiplication and implemented decryption into characters using file handling.
+    -> program is functional, needs to be reviewed and add comments.
+ 
+ 15-11-21:
+    ->added comments.
+    ->tested program. WORKING.
+    -> TODO: start report writing.
+           : update README.md and add instructions.
